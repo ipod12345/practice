@@ -11,3 +11,4 @@ Third change in branch_2
 4th change in branche_2
 5th change in branch_2
 6th change in branch_2
+7th change in branch_2
