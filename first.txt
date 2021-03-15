@@ -4,3 +4,5 @@ first change in remote
 
 First change in branch_1
 Second change in branch_1
+
+First change in branch_2
